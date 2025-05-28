@@ -1,6 +1,6 @@
 ## Requirement
 
-This python code requires the `dotenv` and `openai `libraries. Please install them first.
+This python code requires the `dotenv` and `openai` libraries. Please install them first.
 ```
   pip install python-dotenv
   pip install openai
